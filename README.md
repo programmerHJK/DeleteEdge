@@ -2,5 +2,5 @@
 A Program which can make you delete or install edge
 
 
-- Contact me to iustusultor@proton.me if their is a problem with the software...
-- Also if you want to have source code of this software contact me
+- Contact me from hanjinkim@protonmail.com to report bugs.
+- to have source code of #DeleteEdge, contact me from hanjinkim@protonmail.com
